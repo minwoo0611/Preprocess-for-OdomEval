@@ -2,7 +2,9 @@
 
 A collection of Python scripts and example data designed to **pre-process** odometry results—converting them between TUM and KITTI formats, applying frame transformations, and generating outputs suitable for subsequent evaluation with **EVO** or the **RPG Trajectory Evaluator**.
 
-This work is from the weekly seminar in [RPM Robotics Lab](rpm.snu.ac.kr) [[Presentation Slide]](https://docs.google.com/presentation/d/1LleCGPfmTO9QTyUhobA91vqfQg9bl1dZiIF6sGG7pB8/edit?slide=id.g347e91bd317_0_699#slide=id.g347e91bd317_0_699)
+This work is from the weekly seminar in [RPM Robotics Lab](rpm.snu.ac.kr) 
+
+[**[Presentation Slide]**](https://docs.google.com/presentation/d/1LleCGPfmTO9QTyUhobA91vqfQg9bl1dZiIF6sGG7pB8/edit?slide=id.g347e91bd317_0_699#slide=id.g347e91bd317_0_699) [**[Video (Not English)]**](https://www.youtube.com/watch?v=nl38J9__txo)
 
 ## Repository Layout
 
