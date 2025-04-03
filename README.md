@@ -1,4 +1,4 @@
-# Odometry Evaluation Tools
+# Odometry Evaluation Pre-processing Tools
 
 A collection of Python scripts and example data designed to **pre-process** odometry results—converting them between TUM and KITTI formats, applying frame transformations, and generating outputs suitable for subsequent evaluation with **EVO** or the **RPG Trajectory Evaluator**.
 
